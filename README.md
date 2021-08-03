@@ -7,3 +7,7 @@
 + Trufflesuite
 + MetaMask plugin
 
+# Building a Blockchain Wallet for Fungible and Non-Fungible Assets
++ Write, compile and deploy our contracts
++ Migrating our contracts using Truffle
+
