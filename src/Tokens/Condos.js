@@ -1,5 +1,5 @@
 export default {
-  address: "0x4992d2783aA99a24ad886a76a523DDC5f4F8AAb4",
+  address: "0x923d0E1792633525c9228B613D00A8C19296CB6D",
   decimal: 0,
   name: "Condos",
   symbol: "CONDO",

@@ -1,6 +1,6 @@
 export default {
-  address: "0x3c298E9051db69CA8806E047FD593222628Ab72C",
-  decimal: 0,
+  address: "0x987915Cfd5F8757d42Ac71A1f1a396EC756e972E",
+  decimal: 4,
   name: "OniCoin",
   symbol: "OC",
   icon: "MCCoin.png",
